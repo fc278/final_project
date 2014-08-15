@@ -39,3 +39,7 @@ img {
 .character {
   opacity: 1;
 }
+
+.title {
+  opacity: 0;
+}
