@@ -1,0 +1,21 @@
+h1 {
+text-align:center;
+font-family: 'Amatic SC', cursive;
+font-size: 80px;
+
+}
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 45px;
+  color: black;
+}
+
+body {
+    
+    background: url('http://31.media.tumblr.com/1dd77dc4fb45008d289994c4201d0024/tumblr_mqer13sJnH1syagfpo1_1280.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+}
