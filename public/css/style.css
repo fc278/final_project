@@ -19,3 +19,14 @@ body {
         background-size: cover;
 
 }
+
+#img {
+    opacity: 0.5;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.6;
+}
